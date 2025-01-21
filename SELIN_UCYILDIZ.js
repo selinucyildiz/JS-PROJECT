@@ -1,5 +1,5 @@
 /**
- * Project: Insider | Software Tech Hub Project (JS) | Product Carousel
+ * Project: JS project
  * Description: This JavaScript module creates a dynamic, responsive product carousel for an e-commerce website.
  *              It displays products under the "You Might Also Like" section and supports features like 
  *              navigation arrows, favorites functionality, and responsive design.
